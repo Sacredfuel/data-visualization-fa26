@@ -3,8 +3,8 @@ root: notebooks/syllabus
 chapters:
 # - file: notebooks/classwork
 #   title: Classwork
-# - file: notebooks/assignments
-#   title: Programs
+- file: notebooks/assignments
+  title: Programs
 #   sections:
 #   - file: notebooks/assignment1
 #     title: Program 1
@@ -23,6 +23,8 @@ chapters:
     title: Lecture 3
   - file: lectures/lecture4
     title: Lecture 4
+  - file: lectures/lecture5
+    title: Lecture 5
   # - url: https://sacredfuel.github.io/workshops/tsa-notebooks/components.html
   #   title: Lecture 5
   # - file: lectures/lecture6
