@@ -33,8 +33,8 @@ chapters:
     title: Lecture 7
   - file: lectures/lecture8
     title: Lecture 8
-  # - file: lectures/lecture9
-  #   title: Lecture 9
+  - file: lectures/lecture9
+    title: Lecture 9
   # - file: lectures/lecture10
   #   title: Lecture 10
   # - url: https://observablehq.com/d/20335793c5a72f28
