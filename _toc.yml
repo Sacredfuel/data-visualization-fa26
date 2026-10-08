@@ -37,6 +37,10 @@ chapters:
     title: Lecture 9
   - file: lectures/lecture10
     title: Lecture 10
+  - file: lectures/lecture11
+    title: Lecture 11
+  - file: lectures/lecture12
+    title: Lecture 12
   # - url: https://observablehq.com/d/20335793c5a72f28
   #   title: Lecture 11
   # - url: https://observablehq.com/d/74bb73308d7d7eba
