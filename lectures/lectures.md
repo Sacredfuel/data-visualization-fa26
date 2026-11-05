@@ -17,8 +17,9 @@ This page lists the lecture notebooks.
 - [Lecture 12](lecture12)
 - [Lecture 13](https://observablehq.com/d/20335793c5a72f28)
 - [Lecture 14](https://observablehq.com/d/b96acd59651b8453)
-- [Lecture 15](https://observablehq.com/d/6c2b6051a8415679)
-- [Lecture 16](https://observablehq.com/d/adcf1dfdadecdda3)
+- [Lecture 15](lecture15)
+- [Lecture 16](https://observablehq.com/d/6c2b6051a8415679)
+- [Lecture 17](https://observablehq.com/d/adcf1dfdadecdda3)
 <!--
 - [Lecture 11](https://observablehq.com/d/20335793c5a72f28)
 - [Lecture 12](https://observablehq.com/d/74bb73308d7d7eba)

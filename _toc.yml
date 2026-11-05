@@ -47,11 +47,10 @@ chapters:
     url: https://observablehq.com/d/b96acd59651b8453
   - file: lectures/lecture15
     title: Lecture 15
-    
-  # - url: https://observablehq.com/d/b96acd59651b8453
-  #   title: Lecture 13
-  # - url: https://observablehq.com/d/6c2b6051a8415679
-  #   title: Lecture 14
+  - title: Lecture 16
+    url: https://observablehq.com/d/6c2b6051a8415679
+  - title: Lecture 17
+    url: https://observablehq.com/d/adcf1dfdadecdda3
   # - file: lectures/lecture15
   #   title: Lecture 15
   # - url: https://observablehq.com/d/adcf1dfdadecdda3
