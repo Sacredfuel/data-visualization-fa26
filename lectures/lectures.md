@@ -23,6 +23,7 @@ This page lists the lecture notebooks.
 - [Lecture 17](https://observablehq.com/@data-viz70/lecture-17)
 - [Lecture 18](https://observablehq.com/@data-viz70/lecture-18)
 - [Lecture 19](https://observablehq.com/@data-viz70/lecture-19)
+- [Lecture 20](https://observablehq.com/@data-viz70/lecture-20)
 <!--
 - [Lecture 11](https://observablehq.com/d/20335793c5a72f28)
 - [Lecture 12](https://observablehq.com/d/74bb73308d7d7eba)

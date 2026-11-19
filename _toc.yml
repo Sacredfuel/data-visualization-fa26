@@ -57,6 +57,8 @@ chapters:
     url: https://observablehq.com/@data-viz70/lecture-18
   - title: Lecture 19
     url: https://observablehq.com/@data-viz70/lecture-19
+  - title: Lecture 20
+    url: https://observablehq.com/@data-viz70/lecture-20
   # - file: lectures/lecture15
   #   title: Lecture 15
   # - url: https://observablehq.com/d/adcf1dfdadecdda3
@@ -81,7 +83,7 @@ chapters:
   #   title: Program 5
   # - file: notebooks/assignment6
   #   title: Program 6 (optional)
-- file: notebooks/project
+- file: notebooks/project2
   title: Project
 # - file: notebooks/final_exam
 #   title: Final Exam Review
